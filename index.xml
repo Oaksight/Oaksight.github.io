@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oaksight Analytics</title>
+    <link>https://oaksight.com/</link>
+    <description>Recent content on Oaksight Analytics</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oaksight.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://oaksight.com/about/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://oaksight.com/about/</guid>
+      <description>At Oaksight Analytics, we specialize in harnessing the power of innovative technologies like geospatial visualization, machine learning, and blockchain technology to drive decisions which will benefit your company and the planet. Our experts have over a decade of experience in data analytics at Fortune 500 companies working with large, disparate data. We appreciate the intricacies of storing and preparing data for analysis, and are positioned with a data quality first mindset.</description>
+    </item>
+    <item>
+      <title>MIT Sustainability Summit</title>
+      <link>https://oaksight.com/blog/mit_sustainability_summit/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://oaksight.com/blog/mit_sustainability_summit/</guid>
+      <description>&lt;p&gt;Oaksight attended the MIT Sustainability Summit on April 24, 2024. Check out our full recap!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://oaksight.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://oaksight.com/contact/</guid>
+      <description>To contact us, send an email to info@oaksight.com.</description>
+    </item>
+  </channel>
+</rss>
