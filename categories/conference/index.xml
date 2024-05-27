@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Oaksight Analytics</title>
+    <link>https://oaksight.com/categories/conference/</link>
+    <description>Recent content in Conference on Oaksight Analytics</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://oaksight.com/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT Sustainability Summit</title>
+      <link>https://oaksight.com/blog/mit_sustainability_summit/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://oaksight.com/blog/mit_sustainability_summit/</guid>
+      <description>&lt;p&gt;Oaksight attended the MIT Sustainability Summit on April 24, 2024. Check out our full recap!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

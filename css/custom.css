@@ -1,0 +1,60 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+
+logo green: #729767
+light green: #E3EAE1
+brown green: #B9C1A4
+medium green: #ABC1A4
+brown: #C1BAA4
+
+*/
+
+blockquote {
+  background-color: #e3eae1;
+}
+h1 {
+  color: #729767;
+  font-weight: bold;
+}
+h2 {
+  color: #729767;
+  font-weight: bold;
+}
+.bg-tlgray-200 {
+  background-color: #e3eae1;
+}
+.bg-tlgray-700 {
+  background-color: #729767;
+}
+.bg-tlgray-800 {
+  background-color: #729767;
+  color: white;
+}
+.column {
+  float: left;
+  width: 45%;
+  margin-left: 20px;
+  vertical-align: top;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.text-5xl {
+  color: #729767;
+}
+.tech-row {
+  content: "";
+  display: table;
+  clear: both;
+}
+.tech-col {
+  float: left;
+  width: 20%;
+  margin-left: 30px;
+  vertical-align: bottom;
+  text-align: center;
+}
